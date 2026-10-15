@@ -1,6 +1,6 @@
 # Olá, eu sou a Natália Rodrigues
 
-Trainee em Ciência de Dados na Dataside e estudante de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Gosto de transformar dados brutos em respostas para perguntas de negócio, da análise exploratória ao modelo.
+Estudante de Análise e Desenvolvimento de Sistemas no Senac São Paulo, e fui Trainee em Ciência de Dados na empresa Dataside. Gosto de transformar dados brutos em respostas para perguntas de negócio, da análise exploratória ao modelo.
 
 Atualmente estudando Machine Learning, Microsoft Fabric e engenharia de dados.
 
